@@ -1,6 +1,22 @@
+
+
+body{
+  font-family: "Open Sans", sans-serif;
+  margin: 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Jost", sans-serif;
+}
 /************Navbar************/
+nav{
+  z-index: 1;
+}
 .navbar-brand{
   color: azure !important;
+  font-family: "Jost", sans-serif;
+  font-weight: 600;
+  letter-spacing: normal;
 
 }
 nav a.nav-link {
@@ -23,3 +39,10 @@ nav a.nav-link {
 .navbar-nav > li > a:hover {
   border-top: 0.1875rem solid orange;
 }
+
+/*----------------Footer------------------*/
+footer{
+  z-index: 1;
+  margin-bottom: 0;
+}
+
