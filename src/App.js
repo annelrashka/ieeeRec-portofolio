@@ -6,17 +6,20 @@ import Aboutme from "./pages/aboutme/aboutme";
 import Myreason from "./pages/myreason";
 import Footer from "./components/footer.js";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {AnimatePresence, motion} from 'framer-motion';
 
 function App() {
   return (
     <Router> 
       <>
         <Navbar/>
-        <Switch>
-          <Route path='/' exact component={Homepage}/>
-          <Route path='/aboutme'  component={Aboutme}/>
-          <Route path='/myreason' component={Myreason}/>
-        </Switch>
+        <AnimatePresence>
+          <Switch>
+            <Route path='/' exact component={Homepage}/>
+            <Route path='/aboutme'  component={Aboutme}/>
+            <Route path='/myreason' component={Myreason}/>
+          </Switch>
+        </AnimatePresence>
         <Footer/>
       </>
     </Router>

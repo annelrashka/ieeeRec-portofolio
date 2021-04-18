@@ -1,12 +1,17 @@
 .section-bg{
-  background-image: url('/src/images/pexels-lumn-167699.jpg');
+  background-image: url('/src/images/pexels-lumn-167699-min.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
   height: 100vh;
-  
+}
+
+@media only screen and (max-width: 600px){
+  .section-bg {
+    height: 180vh;
+  }
 }
 /*------------------------SWOT Section---------------------*/
 .swot .icon-box {
@@ -23,7 +28,6 @@
 .swot .icon-box .icon i {
   color: #47b2e4;
   font-size: 36px;
-  transition: 0.3s;
 }
 
 .swot .icon-box h4 {
@@ -34,7 +38,7 @@
 
 .swot .icon-box h4 a {
   color: #37517e;
-  transition: ease-in-out 0.3s;
+  
 }
 
 .swot .icon-box p {
@@ -52,6 +56,12 @@
 }
 
 /*------------------------Resume Section---------------------*/
+.resume{
+  width: 100%;
+  height: 85rem;
+  background-image: url('/src/images/pexels-lumn-167699-min.jpg');
+  padding-top: 10rem;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 400;

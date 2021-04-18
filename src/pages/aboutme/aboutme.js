@@ -1,11 +1,17 @@
 import React from 'react';
 import './aboutme.css';
+import { motion } from 'framer-motion';
 
 
 
 function Aboutme() {
     return (
-        <div>
+        <motion.div
+
+        initial={{opacity:0}} 
+        animate={{opacity:1}} 
+        exit={{opacity:0}}
+        >
         <section id="swot" className="swot section-bg d-flex align-items-center">
             <div className="container" data-aos="fade-up">
 
@@ -140,7 +146,7 @@ function Aboutme() {
   
         </div>
       </section>
-      </div>
+      </motion.div>
     )
 }
 
