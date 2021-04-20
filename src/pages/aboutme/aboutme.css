@@ -14,9 +14,14 @@
   }
 }
 /*------------------------SWOT Section---------------------*/
+.title{
+  margin-bottom: 6rem;
+}
 .swot .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
+  width: 15.9375rem;
+  height: 14.1125rem;
   transition: all ease-in-out 0.4s;
   background: #fff;
 }

@@ -16,8 +16,7 @@ function Aboutme() {
             <div className="container" data-aos="fade-up">
 
                 <div className="section-title text-center">
-                <h2>SWOT Analytics</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <h2 className="title">SWOT Analytics</h2>
                 </div>
 
                 <div className="row">
@@ -25,7 +24,9 @@ function Aboutme() {
                     <div className="icon-box">
                     <div className="icon"><i className="bx bxl-dribbble"></i></div>
                     <h4><a href="">Strengths</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    <p>Dedication</p>
+                    <p>Focus</p>
+                    <p>Curious</p>
                     </div>
                 </div>
 
@@ -33,7 +34,9 @@ function Aboutme() {
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-file"></i></div>
                     <h4><a href="">Weaknesses</a></h4>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                    <p>Deadline-er</p>
+                    <p>Reactive</p>
+                    <p>Reckles</p>
                     </div>
                 </div>
 
@@ -41,7 +44,8 @@ function Aboutme() {
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-tachometer"></i></div>
                     <h4><a href="">Opportunities</a></h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                    <p>Proggresive</p>
+                    <p>Know more</p>
                     </div>
                 </div>
 
@@ -49,7 +53,8 @@ function Aboutme() {
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-layer"></i></div>
                     <h4><a href="">Threats</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                    <p>Overwhelmed</p>
+                    <p>Often make mistakes</p>
                     </div>
                 </div>
 
@@ -58,45 +63,49 @@ function Aboutme() {
             </div>
         </section>
         <section id="resume" className="resume">
-        <div class="container" data-aos="fade-up">
+        <div className="container" data-aos="fade-up">
   
-          <div class="section-title text-center">
-            <h2>Resume</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <div className="section-title text-center">
+            <h2 className="title">Resume</h2>
           </div>
   
-          <div class="row">
-            <div class="col-lg-6">
-              <h3 class="resume-title">Sumary</h3>
-              <div class="resume-item pb-0">
+          <div className="row">
+            <div className="col-lg-6">
+              <h3 className="resume-title">Sumary</h3>
+              <div className="resume-item pb-0">
                 <h4>Annel Rashka Perdana</h4>
-                <p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</em></p>
-                <p>
-                <ul>
-                  <li>Lampung, Indonesia</li>
-                  <li>081352052004</li>
-                  <li>annelrashkaperdana@gmail.com</li>
-                </ul>
-                </p>
+                <p>I'm kind of person that like to questioning everything, if anything doesn't seems make sense, I'll keep searching until it's make sense to me. My biggest goal in life is to be a fullstack web-developer. To achieve this i need to master 2 things, frontend and backend. I started learning web-development ini January 2021. So far, i've learned basic HTML,CSS, and Javascript</p>
               </div>
   
-              <h3 class="resume-title">Education</h3>
-              <div class="resume-item">
+              <h3 className="resume-title">Education</h3>
+              <div className="resume-item">
                 <h4>Bandung Institute of Technology</h4>
                 <h5>2020 - Present</h5>
                 <p><em>School Of Electrical Engineering And Informatics</em></p>
-                <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                <p>
+                  <ul>
+                    <li>Member of Unit Budaya Lampung</li>
+                  </ul>
+                </p>
               </div>
-              <div class="resume-item">
+              <div className="resume-item">
                 <h4>SMAN 1 Gadingrejo</h4>
                 <h5>2017 - 2019</h5>
                 <p><em>Mathematics And Science</em></p>
-                <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+                <p>
+                  Here is some achievement :
+                  <ul>
+                    <li>Acceleration Program</li>
+                    <li>Finalist in Olimpiade Fisika Itera 4 2018</li>
+                    <li>Finalist in Olimpiade Fisika Himafi Unila 2018</li>
+                    <li>Best Film Editor in Gebyar Seni Smanding 2018</li>
+                  </ul>
+                </p>
               </div>
             </div>
-            <div class="col-lg-6">
-              <h3 class="resume-title">Experience</h3>
-              <div class="resume-item">
+            <div className="col-lg-6">
+              <h3 className="resume-title">Experience</h3>
+              <div className="resume-item">
                 <h4>Frontend Web-Developer</h4>
                 <h5>Marc 2021 - Present</h5>
                 <p><em>IMPACT STEI 2021 </em></p>
@@ -107,7 +116,7 @@ function Aboutme() {
                 </ul>
                 </p>
               </div>
-              <div class="resume-item">
+              <div className="resume-item">
                 <h4>Frontend Web-Developer</h4>
                 <h5>Feb 2021 - Apr 2021</h5>
                 <p><em>Perayaan Wisuda April 2021</em></p>
@@ -117,7 +126,7 @@ function Aboutme() {
                 </ul>
                 </p>
               </div>
-              <div class="resume-item">
+              <div className="resume-item">
                 <h4>Vice Leader Of Virtual Exhibition Sub-Division</h4>
                 <h5>Nov 2020 - Jan 2021</h5>
                 <p><em>Refleksi Akbar KM-ITB</em></p>
@@ -128,7 +137,7 @@ function Aboutme() {
                 </ul>
                 </p>
               </div>
-              <div class="resume-item">
+              <div className="resume-item">
                 <h4>Head Of Lampung Cultural Exhibition</h4>
                 <h5>Oct 2020 - Nov 2020</h5>
                 <p><em>Unit Budaya Lampung ITB</em></p>
