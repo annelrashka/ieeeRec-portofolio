@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ieeeRec-portofolio/static/css/main.bcdf2b5f.chunk.css",
-    "main.js": "/ieeeRec-portofolio/static/js/main.8260e34d.chunk.js",
-    "main.js.map": "/ieeeRec-portofolio/static/js/main.8260e34d.chunk.js.map",
-    "runtime-main.js": "/ieeeRec-portofolio/static/js/runtime-main.147daeea.js",
-    "runtime-main.js.map": "/ieeeRec-portofolio/static/js/runtime-main.147daeea.js.map",
+    "main.css": "/ieeeRec-portofolio/static/css/main.2bcffd35.chunk.css",
+    "main.js": "/ieeeRec-portofolio/static/js/main.ae857026.chunk.js",
+    "main.js.map": "/ieeeRec-portofolio/static/js/main.ae857026.chunk.js.map",
+    "runtime-main.js": "/ieeeRec-portofolio/static/js/runtime-main.b38b122d.js",
+    "runtime-main.js.map": "/ieeeRec-portofolio/static/js/runtime-main.b38b122d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/ieeeRec-portofolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.729773b7.chunk.js": "/ieeeRec-portofolio/static/js/2.729773b7.chunk.js",
-    "static/js/2.729773b7.chunk.js.map": "/ieeeRec-portofolio/static/js/2.729773b7.chunk.js.map",
-    "static/js/3.6a183a67.chunk.js": "/ieeeRec-portofolio/static/js/3.6a183a67.chunk.js",
-    "static/js/3.6a183a67.chunk.js.map": "/ieeeRec-portofolio/static/js/3.6a183a67.chunk.js.map",
+    "static/js/2.62af9bf4.chunk.js": "/ieeeRec-portofolio/static/js/2.62af9bf4.chunk.js",
+    "static/js/2.62af9bf4.chunk.js.map": "/ieeeRec-portofolio/static/js/2.62af9bf4.chunk.js.map",
+    "static/js/3.03e7d2a0.chunk.js": "/ieeeRec-portofolio/static/js/3.03e7d2a0.chunk.js",
+    "static/js/3.03e7d2a0.chunk.js.map": "/ieeeRec-portofolio/static/js/3.03e7d2a0.chunk.js.map",
     "index.html": "/ieeeRec-portofolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/ieeeRec-portofolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bcdf2b5f.chunk.css.map": "/ieeeRec-portofolio/static/css/main.bcdf2b5f.chunk.css.map",
-    "static/js/2.729773b7.chunk.js.LICENSE.txt": "/ieeeRec-portofolio/static/js/2.729773b7.chunk.js.LICENSE.txt",
-    "static/media/hero.72d9fd52.svg": "/ieeeRec-portofolio/static/media/hero.72d9fd52.svg",
+    "static/css/main.2bcffd35.chunk.css.map": "/ieeeRec-portofolio/static/css/main.2bcffd35.chunk.css.map",
+    "static/js/2.62af9bf4.chunk.js.LICENSE.txt": "/ieeeRec-portofolio/static/js/2.62af9bf4.chunk.js.LICENSE.txt",
+    "static/media/hero.ba13fe5b.svg": "/ieeeRec-portofolio/static/media/hero.ba13fe5b.svg",
     "static/media/aboutme.css": "/ieeeRec-portofolio/static/media/pexels-lumn-167699-min.18a74de2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.147daeea.js",
+    "static/js/runtime-main.b38b122d.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.729773b7.chunk.js",
-    "static/css/main.bcdf2b5f.chunk.css",
-    "static/js/main.8260e34d.chunk.js"
+    "static/js/2.62af9bf4.chunk.js",
+    "static/css/main.2bcffd35.chunk.css",
+    "static/js/main.ae857026.chunk.js"
   ]
 }
