@@ -16,6 +16,7 @@
 /*------------------------SWOT Section---------------------*/
 .title{
   margin-bottom: 6rem;
+
 }
 .swot .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
@@ -63,9 +64,10 @@
 /*------------------------Resume Section---------------------*/
 .resume{
   width: 100%;
-  height: 85rem;
+  
   background-image: url('/src/images/pexels-lumn-167699-min.jpg');
   padding-top: 10rem;
+  padding-bottom: 3rem;
 }
 .resume .resume-title {
   font-size: 26px;

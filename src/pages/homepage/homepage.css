@@ -27,9 +27,6 @@
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
-.ml-0{
-  margin-left: 0rem !important;
-}
 
 @media (max-width: 991px) {
   #hero {

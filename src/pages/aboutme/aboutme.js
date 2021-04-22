@@ -23,7 +23,7 @@ function Aboutme() {
                 <div className="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div className="icon-box">
                     <div className="icon"><i className="bx bxl-dribbble"></i></div>
-                    <h4><a href="">Strengths</a></h4>
+                    <h4>Strengths</h4>
                     <p>Dedication</p>
                     <p>Focus</p>
                     <p>Curious</p>
@@ -33,7 +33,7 @@ function Aboutme() {
                 <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-file"></i></div>
-                    <h4><a href="">Weaknesses</a></h4>
+                    <h4>Weaknesses</h4>
                     <p>Deadline-er</p>
                     <p>Reactive</p>
                     <p>Reckles</p>
@@ -43,7 +43,7 @@ function Aboutme() {
                 <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-tachometer"></i></div>
-                    <h4><a href="">Opportunities</a></h4>
+                    <h4>Opportunities</h4>
                     <p>Proggresive</p>
                     <p>Know more</p>
                     </div>
@@ -52,7 +52,7 @@ function Aboutme() {
                 <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
                     <div className="icon-box">
                     <div className="icon"><i className="bx bx-layer"></i></div>
-                    <h4><a href="">Threats</a></h4>
+                    <h4>Threats</h4>
                     <p>Overwhelmed</p>
                     <p>Often make mistakes</p>
                     </div>
@@ -93,11 +93,11 @@ function Aboutme() {
                 <h5>2017 - 2019</h5>
                 <p><em>Mathematics And Science</em></p>
                 <p>
-                  Here is some achievement :
+                  Achievement :
                   <ul>
                     <li>Acceleration Program</li>
-                    <li>Finalist in Olimpiade Fisika Itera 4 2018</li>
-                    <li>Finalist in Olimpiade Fisika Himafi Unila 2018</li>
+                    <li>Finalist in Olimpiade Fisika ITERA 4 2018</li>
+                    <li>Finalist in Olimpiade Fisika Himafi UNILA 2018</li>
                     <li>Best Film Editor in Gebyar Seni Smanding 2018</li>
                   </ul>
                 </p>
@@ -110,8 +110,9 @@ function Aboutme() {
                 <h5>Marc 2021 - Present</h5>
                 <p><em>IMPACT STEI 2021 </em></p>
                 <p>
+                Key Contribution :
                 <ul>
-                  <li>Key Contribution</li>
+                  <li>Tasked to make an Impact's homepage website with React and material UI</li>
                   
                 </ul>
                 </p>
@@ -121,8 +122,10 @@ function Aboutme() {
                 <h5>Feb 2021 - Apr 2021</h5>
                 <p><em>Perayaan Wisuda April 2021</em></p>
                 <p>
+                Key Contribution:
                 <ul>
-                  <li>Key Contribution</li>
+                  <li>Tasked to build homepage's HTML,CSS</li>
+                  <li>Tasked to build Wispril's Organogram</li>
                 </ul>
                 </p>
               </div>

@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from "./components/navbar.js";
 import Homepage from "./pages/homepage/homepage";
 import Aboutme from "./pages/aboutme/aboutme";
-import Myreason from "./pages/myreason";
+import Myreason from "./pages/myreason/myreason";
 import Footer from "./components/footer.js";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import {AnimatePresence, motion} from 'framer-motion';
@@ -15,7 +15,7 @@ function App() {
         <Navbar/>
         <AnimatePresence>
           <Switch>
-            <Route path='/' exact component={Homepage}/>
+            <Route path='/ieeeRec-portofolio' exact component={Homepage}/>
             <Route path='/aboutme'  component={Aboutme}/>
             <Route path='/myreason' component={Myreason}/>
           </Switch>
